@@ -1,7 +1,7 @@
 public class Menu {
-  private String nama;
+  private final String nama;
   private double harga;
-  private String kategori;
+  private final String kategori;
 
   public Menu(String nama, double harga, String kategori) {
     this.nama = nama;
@@ -20,4 +20,8 @@ public class Menu {
   public String getKategori() {
     return kategori;
   }
+
+  public void setHarga(double harga) {
+    this.harga = harga;
+}
 }
