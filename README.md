@@ -1,4 +1,4 @@
-## Tugas 1 Praktik Pemrograman Berbasis Desktop
+## Tugas Praktik Pemrograman Berbasis Desktop
 
 Nama : Muhammad Farras Jibran\
 NIM : 044756795
