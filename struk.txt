@@ -1,0 +1,23 @@
+--- STRUK PEMESANAN ---
+Nama Menu            Jumlah     Harga      Total     
+Nasi Goreng          2          Rp 15000.00   Rp 30000.00  
+Es Kopyor            2          Rp 5000.00    Rp 10000.00  
+
+Subtotal:         Rp 40000.00
+Pajak (10%):      Rp 4000.00
+Biaya Pelayanan:  Rp 20000.00
+Diskon:           Rp -0.00
+Total:            Rp 64000.00
+
+
+
+--- STRUK PEMESANAN ---
+Nama Menu            Jumlah     Harga      Total     
+
+Subtotal:         Rp 0.00
+Pajak (10%):      Rp 0.00
+Biaya Pelayanan:  Rp 20000.00
+Diskon:           Rp -0.00
+Total:            Rp 20000.00
+
+

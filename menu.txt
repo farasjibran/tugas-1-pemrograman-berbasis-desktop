@@ -1,0 +1,4 @@
+Nasi Goreng;15000;Makanan
+Sate Kikil;20000;Makanan
+Nasi Padang;20000;Makanan
+Es Kopyor;5000;Minuman
